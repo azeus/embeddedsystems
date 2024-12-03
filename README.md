@@ -1,6 +1,6 @@
 # embeddedsystems
 
-In this repo I have listed some more frequently used algos and structures. I find it extremely useful to have them all in one place. Also the algos aren't listed in any particular order. Shout out to 
+In this repo I have listed some more frequently used algos and structures. I find it extremely useful to have them all in one place. Also the algos aren't listed in any particular order. 
 
 Data Structures
 
